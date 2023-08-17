@@ -3,7 +3,7 @@
 This dataset contains the 2014 - 2017 order details, sales, and profit information for the Superstore Company. The Superstore Company sells and ships various products all over the continental US to consumer, corporate, and home office customers. The main categories of products are Furniture, Office Supplies, and Technology.
 The data can be downloaded [here](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/courses/5873606/sample_superstore_data+-+orders.csv)
 
-You can view the report on [tableau public](https://public.tableau.com/app/profile/binyoh.langhe.theodore/viz/SuperstoreShippingAnalysis_16922722847360/Story1)
+You can view the report on <a href="https://public.tableau.com/app/profile/binyoh.langhe.theodore/viz/SuperstoreShippingAnalysis_16922722847360/Story1" target="_blank">tableau public </a>
 
 ## Project Goal
 This project places me in the role of a data analyst at the Superstore company, wherein a dashboard has been requested, which provideds insights divided into 2 main categories.
